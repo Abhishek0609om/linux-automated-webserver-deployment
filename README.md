@@ -16,7 +16,7 @@ The architecture of this project is simple and focuses on a single Linux server 
 3. The web server service is started and enabled.
 4. The server status is verified to confirm successful deployment.
 
-(Refer to architecture.png for the architecture diagram.)
+
 
 ---
 
@@ -75,7 +75,6 @@ systemctl status httpd
 
 Basic monitoring can be performed using system logs and service status commands.
 
-Example:
 
 journalctl -u httpd
 
@@ -87,7 +86,6 @@ This helps administrators monitor the web server and troubleshoot issues.
 
 Screenshots of the deployment process and successful web server setup are included in the screenshots/ directory.
 
-Examples include:
 
 - Server installation
 - Web server running status
