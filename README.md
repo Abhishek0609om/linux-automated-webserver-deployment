@@ -1,4 +1,4 @@
-# Automated Web Server Deployment using Bash
+# Automated Web Server Deployment 
 
 ## Project Overview
 This project demonstrates how to automatically deploy a web server on a Linux system using a Bash script. The script installs and configures the web server, starts the service, and verifies that the server is running correctly.
